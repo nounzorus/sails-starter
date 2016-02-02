@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "indent": [1, 4],
+    "max-len": 0,
+    "no-param-reassign": 0,
+    "no-var": 1,
+    "strict": 0,
+  }
+}

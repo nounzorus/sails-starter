@@ -1,0 +1,22 @@
+{
+	"api.messages.incorrectPassword": "Provided email and password do not match.",
+	"api.messages.successfulLogin": "User has been successfully logged in.",
+
+    "api.messages.accessTokenRequired": "X-Access-Token header is required.",
+    "api.messages.invalidAccessToken": "Provided access token is invalid.",
+
+    "api.messages.userEmailNotFound": "Provided email does not match any stored user.",
+    "api.messages.passwordTokenGenerated" : "Password change token has been successfully generated (and send).",
+
+    "api.messages.differentPasswords" : "Passwords provided do not match.",
+    "api.messages.outdatedPasswordToken" : "Provided password token is no longer valid.",
+	"api.messages.successfulUserUpdate" : "User has been successfully updated.",
+
+    "api.messages.emailRequired" : "Email is required.",
+	"api.messages.emailAndPasswordRequired" : "Both email and password are required.",
+    "api.messages.passwordAndConfirmationRequired" : "Both password and password confirmation are required.",
+
+    "api.messages.userIdNotFound" : "Provided id does not match any stored user.",
+
+	"api.strings.passwordMailSubject" : "Forgotten Password"
+}
