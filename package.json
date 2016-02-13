@@ -1,8 +1,8 @@
 {
-  "name": "cozigou-api",
+  "name": "yourapp-name",
   "private": true,
   "version": "0.0.1",
-  "description": "Cozigou API",
+  "description": "Your Description",
   "keywords": [],
   "dependencies": {
     "bcrypt": "^0.8.5",
@@ -33,11 +33,7 @@
     "test": "mocha tests/bootstrap.test.js tests/unit/**/*.test.js"
   },
   "main": "app.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/zip/cozigou-sails.git"
-  },
-  "author": "Zip",
+  "author": "nounzorus",
   "license": "",
   "devDependencies": {
     "chai": "^3.4.1",
